@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """<b>Hello Friends,</b>
-<b>I am a Telegram URL Upload Bot!</b>
-<code>Version : 1.0</code>
+<b>I am a NoPrime Upload Bot!</b>
+<code>Version : 1.7</code>
 <b>Please send me any direct download URL Link, I can upload to telegram as File or Media.</b>
 
 /help for more details..
@@ -17,8 +17,8 @@ URL | filename | username | password"""
     UPLOAD_START = "Trying To Upload"
     RCHD_BOT_API_LIMIT = "Size Greater Than Maximum Allowed Size (50MB). Neverthless, Trying To Upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @FayasKallekkad"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @FayasKallekkad\nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @NoPrime_OTT"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @NoPrime_OTT\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
