@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.me/BetaConverterBot",
-  "website": "https://github.com/FayasKallekkad",
-  "repository": "https://github.com/FayasKallekkad/URL-Uploader-Bot",
+  "success_url": "https://telegram.me/NoPrime_OTT",
+  "website": "https://github.com/xi-ui",
+  "repository": "https://github.com/xi-ui/URL-Uploader-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
